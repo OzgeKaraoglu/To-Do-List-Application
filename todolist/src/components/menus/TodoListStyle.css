@@ -1,0 +1,35 @@
+.MyComponent {
+  width: 350px;
+  height: auto;
+
+}
+
+#rowHeader {
+  padding: 10px;
+  text-transform: uppercase;
+  background-color: rgba(255, 150, 200, 0.45);
+  border-radius: 25px;
+}
+
+#title {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: normal;
+}
+
+#rowContent {
+  background-color: white;
+  border-radius: 15px;
+}
+
+#content {
+  font-weight: bold;
+  color: black
+}
+
+
+#footer {
+  font-size: 15px;
+}

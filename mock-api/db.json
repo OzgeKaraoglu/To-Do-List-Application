@@ -1,0 +1,36 @@
+{
+  "todos": [
+    {
+      "content": "todo1",
+      "id": 6
+    },
+    {
+      "content": "todo3",
+      "id": 8
+    },
+    {
+      "content": "task 4",
+      "id": 9
+    }
+  ],
+  "inProgress": [
+    {
+      "content": "inprogress1",
+      "id": 1
+    },
+    {
+      "content": "inprogress2",
+      "id": 2
+    },
+    {
+      "content": "inprogress3",
+      "id": 3
+    }
+  ],
+  "done": [
+    {
+      "content": "done1",
+      "id": 1
+    }
+  ]
+}
